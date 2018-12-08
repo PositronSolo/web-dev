@@ -23,13 +23,22 @@
     -moz-box-sizing: border-box;
 }
 
-body {
+.body {
   background: orange;
 }
 
-h1 {
+.title {
   font-size: 100px;
   color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.text {
+  font-size: 100px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
 }
 
 .wrapper {
