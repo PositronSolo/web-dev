@@ -23,12 +23,6 @@
     -moz-box-sizing: border-box;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   background: orange;
 }
@@ -76,4 +70,10 @@ h1 {
 /* IMG */
 .img {
   width: 500px;
+}
+
+/* Video */
+.video {
+  width: 300px;
+  height: 250px;
 }
