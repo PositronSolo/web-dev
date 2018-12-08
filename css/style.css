@@ -17,3 +17,25 @@ h1 {
   width: 60%;
   margin: 0 auto;
 }
+
+/* BEM */
+
+.card {
+  width: 300px;
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 2px 4px 8px 0 rgba(46,61,73,.2);
+}
+
+.card__btn {
+  padding: 10px;
+  border-radius: 100px;
+  outline: none;
+}
+
+.card__btn--active {
+  background: black;
+  color: #fff;
+}
