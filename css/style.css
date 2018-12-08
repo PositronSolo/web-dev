@@ -17,3 +17,9 @@ h1 {
   width: 60%;
   margin: 0 auto;
 }
+
+/* IMG */
+
+.img {
+  width: 500px;
+}
